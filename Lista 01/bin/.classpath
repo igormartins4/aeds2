@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Lista 01/src/|Lista 02/src/|Lista 03/src/|Lista 04/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Lista 01/src"/>
+	<classpathentry kind="src" path="Lista 02/src"/>
+	<classpathentry kind="src" path="Lista 03/src"/>
+	<classpathentry kind="src" path="Lista 04/src"/>
+	<classpathentry kind="output" path="Lista 01/bin"/>
+</classpath>
